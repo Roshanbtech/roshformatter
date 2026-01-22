@@ -1,9 +1,11 @@
 {
   "name": "roshformatter",
   "version": "0.1.0",
+  "description": "Deterministic, security-first code formatter",
   "bin": {
     "roshformatter": "index.js"
   },
-  "type": "module",
-  "private": false
+  "keywords": ["formatter", "security", "ci"],
+  "license": "MIT",
+  "type": "module"
 }
