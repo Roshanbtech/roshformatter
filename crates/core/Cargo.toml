@@ -1,0 +1,10 @@
+[package]
+name = "roshformatter_core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+swc_common = "0.33"
+swc_ecma_parser = "0.143"
+swc_ecma_codegen = "0.143"
+serde_json = "1.0"

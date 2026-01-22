@@ -1,0 +1,10 @@
+{
+  "name": "roshformatter",
+  "activationEvents": ["onLanguage:javascript"],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      { "command": "roshformatter.format", "title": "Format with RoshFormatter" }
+    ]
+  }
+}

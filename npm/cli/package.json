@@ -1,0 +1,9 @@
+{
+  "name": "roshformatter",
+  "version": "0.1.0",
+  "bin": {
+    "roshformatter": "index.js"
+  },
+  "type": "module",
+  "private": false
+}
